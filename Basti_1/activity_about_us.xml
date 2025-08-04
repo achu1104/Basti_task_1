@@ -1,0 +1,9 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:padding="24dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:text="About Hope Foundation\n\nWe are a non-profit organization committed to educating children in rural areas, supporting women’s empowerment, and improving healthcare access in underdeveloped regions.\n\nFounded in 2015, we’ve impacted over 10,000 lives and continue to grow with the support of our volunteers and donors."
+        android:textSize="16sp"/>
+</ScrollView>
